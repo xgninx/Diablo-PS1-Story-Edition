@@ -289,7 +289,7 @@ Proyek ini dibuat secara independen untuk membantu komunitas Indonesia menikmati
 
 Apabila kamu menikmati hasil proyek ini dan ingin memberikan dukungan sukarela untuk pengembangan proyek penerjemahan game lainnya, kamu dapat memberikan dukungan melalui Saweria.
 
-**Saweria:** Tautan akan ditambahkan.
+**Saweria:** [Dukung Gninx melalui Saweria](https://saweria.co/gninx)
 
 Dukungan tidak diwajibkan. Terima kasih kepada semua pemain yang telah mencoba dan mendukung proyek ini.
 
