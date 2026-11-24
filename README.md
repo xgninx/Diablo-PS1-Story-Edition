@@ -131,11 +131,11 @@ Setelah proses patch berhasil, buat file teks baru dengan nama:
 
 Masukkan isi berikut:
 
-\`\`\`cue
+```cue
 FILE "Diablo_Story_Edition.bin" BINARY
   TRACK 01 MODE2/2352
     INDEX 01 00:00:00
-\`\`\`
+```
 
 Simpan file CUE di folder yang sama dengan BIN hasil patch.
 
@@ -143,11 +143,11 @@ Pastikan nama BIN pada file CUE sama persis dengan nama file hasil patch.
 
 Struktur folder:
 
-\`\`\`text
+```text
 Diablo Story Edition/
 ├── Diablo_Story_Edition.bin
 └── Diablo_Story_Edition.cue
-\`\`\`
+```
 
 ## 5. Jalankan melalui DuckStation
 
@@ -172,12 +172,12 @@ Buat folder baru dengan nama:
 
 Masukkan ketiga file berikut ke dalam folder:
 
-\`\`\`text
+```text
 Diablo Story Edition/
 ├── Diablo.bin
 ├── Diablo_PS1_Story_Edition.xdelta
 └── xdelta3.exe
-\`\`\`
+```
 
 Keterangan:
 - `Diablo.bin` adalah file original.
@@ -200,9 +200,9 @@ Keterangan:
 3. Pilih Open in Terminal atau buka PowerShell di folder tersebut.
 4. Jalankan perintah berikut:
 
-\`\`\`powershell
+```powershell
 .\xdelta3.exe -d -s ".\Diablo.bin" ".\Diablo_PS1_Story_Edition.xdelta" ".\Diablo_Story_Edition.bin"
-\`\`\`
+```
 
 Tunggu hingga proses selesai.
 
@@ -220,11 +220,11 @@ Buat file teks baru:
 
 Isi dengan kode berikut:
 
-\`\`\`cue
+```cue
 FILE "Diablo_Story_Edition.bin" BINARY
   TRACK 01 MODE2/2352
     INDEX 01 00:00:00
-\`\`\`
+```
 
 Simpan di folder yang sama dengan BIN hasil patch.
 
