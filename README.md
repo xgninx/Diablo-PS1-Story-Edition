@@ -291,8 +291,6 @@ Apabila kamu menikmati hasil proyek ini dan ingin memberikan dukungan sukarela u
 
 **Trakteer:** [Dukung Gninx melalui Trakteer](https://trakteer.id/daftar-x-7xnwv)
 
-**Saweria:** [Dukung Gninx melalui Saweria](https://saweria.co/gninx)
-
 Dukungan tidak diwajibkan. Terima kasih kepada semua pemain yang telah mencoba dan mendukung proyek ini.
 
 ---
